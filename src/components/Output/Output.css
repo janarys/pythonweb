@@ -1,0 +1,10 @@
+.output {
+    border: 1px solid black;
+    padding: 16px;
+    margin: 16px;
+}
+.output > div {
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid black;
+}

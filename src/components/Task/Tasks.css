@@ -1,0 +1,8 @@
+.task  {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+}
+.controls {
+    margin-top: auto
+}
